@@ -1,11 +1,11 @@
 Summary:	Document viewer for multiple document formats
 Name:		atril
-Version:	1.8.0
+Version:	1.8.1
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://pub.mate-desktop.org/releases/1.8/%{name}-%{version}.tar.xz
-# Source0-md5:	e7626e8e3cffe6ee256cc6cf7acb7524
+# Source0-md5:	cad233200a1ad10b798c2aead11bad0b
 URL:		http://www.gnome.org/projects/evince/
 BuildRequires:	autoconf
 BuildRequires:	automake
